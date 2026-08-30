@@ -2,6 +2,8 @@
 A back-mounted six-wing distributed bionic function system
 背负式六翼分布仿生机能系统 · 根源文档
 
+> 📁 工程统筹（目录结构 / 命名规范 / 阶段路线）：见 [docs/roadmap.md](docs/roadmap.md)
+
 ---
 
 ## 0. 定义

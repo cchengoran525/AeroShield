@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python（tools/ 脚本）
+__pycache__/
+*.pyc
+
+# 系统与临时文件
+Thumbs.db
+*~
