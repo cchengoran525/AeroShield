@@ -1,9 +1,10 @@
 # macOS
 .DS_Store
 
-# Python（tools/ 脚本）
+# Python（tools/ 脚本与仿真环境）
 __pycache__/
 *.pyc
+.venv/
 
 # 系统与临时文件
 Thumbs.db
