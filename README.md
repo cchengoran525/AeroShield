@@ -1,4 +1,9 @@
-# AeroShield
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="media/banner.svg" />
+    <img src="media/banner-light.svg" alt="AeroShield — 背负式六翼分布仿生机能系统" width="100%" />
+  </picture>
+</div>
 A back-mounted six-wing distributed bionic function system
 背负式六翼分布仿生机能系统 · 根源文档
 
