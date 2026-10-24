@@ -1,0 +1,49 @@
+{
+  "totalRuns": 1,
+  "totalRawTokens": 8350,
+  "totalCompressedTokens": 549,
+  "totalSavedTokens": 7801,
+  "averageSavingsPercent": 93,
+  "firstRunAt": "2026-10-11T11:19:36.925Z",
+  "lastRunAt": "2026-10-11T11:19:36.925Z",
+  "records": [
+    {
+      "timestamp": "2026-09-26T13:56:21.181Z",
+      "query": "firmware ESP32 Arduino servo 舵机 代码 目录结构",
+      "rawTokens": 267,
+      "compressedTokens": 267,
+      "savingsPercent": 0,
+      "source": "preview_context",
+      "kind": "tokens-not-fidelity"
+    },
+    {
+      "timestamp": "2026-10-11T11:19:36.925Z",
+      "query": "AeroShield 电子系统设计想法 electronics 固件 伺服 电机 电池 主控 方案",
+      "rawTokens": 8350,
+      "compressedTokens": 549,
+      "savingsPercent": 93,
+      "source": "preview_context",
+      "kind": "tokens-not-fidelity"
+    }
+  ],
+  "recentRecords": [
+    {
+      "timestamp": "2026-10-11T11:19:36.925Z",
+      "query": "AeroShield 电子系统设计想法 electronics 固件 伺服 电机 电池 主控 方案",
+      "rawTokens": 8350,
+      "compressedTokens": 549,
+      "savingsPercent": 93,
+      "source": "preview_context",
+      "kind": "tokens-not-fidelity"
+    },
+    {
+      "timestamp": "2026-09-26T13:56:21.181Z",
+      "query": "firmware ESP32 Arduino servo 舵机 代码 目录结构",
+      "rawTokens": 267,
+      "compressedTokens": 267,
+      "savingsPercent": 0,
+      "source": "preview_context",
+      "kind": "tokens-not-fidelity"
+    }
+  ]
+}
